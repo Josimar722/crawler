@@ -1,0 +1,15 @@
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\pesquisa.exe
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\pesquisa.deps.json
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\pesquisa.runtimeconfig.json
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\pesquisa.runtimeconfig.dev.json
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\pesquisa.dll
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\pesquisa.pdb
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.csprojAssemblyReference.cache
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.AssemblyInfoInputs.cache
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.AssemblyInfo.cs
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.csproj.CopyComplete
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.dll
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.pdb
+C:\Users\Desenv-7\Downloads\pesquisa\pesquisa\obj\Debug\netcoreapp3.1\pesquisa.genruntimeconfig.cache
